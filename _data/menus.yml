@@ -9,7 +9,7 @@ main:
     url: /iletişim/
     weight: 5
 footer:
-  - name: Home
+  - name: Nakliyat
     url: /
     weight: 1
   - name: Contact
