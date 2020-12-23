@@ -7,7 +7,7 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/logo/logo-mobile.svg
+  mobile: images/antalya.png
   desktop: images/antalya-nakliye.png
   desktop_height: 36px
 footer:
