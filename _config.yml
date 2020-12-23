@@ -9,6 +9,7 @@ homepage:
 logo:
   desktop: images/fierce-maple.svg
   desktop_height: 36px
+  mobile: images/pink-octopus.svg
 footer:
   copyright_text: >-
     Tüm Hakları Saklıdır <a class="zerostatic"
