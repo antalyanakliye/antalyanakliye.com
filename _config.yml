@@ -7,13 +7,12 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/logo/logo-mobile.svg
-  desktop: images/logo/logo.svg
+  desktop: images/antalya-nakliye.png
   desktop_height: 36px
 footer:
   copyright_text: >-
-    Free Jekyll theme by <a class="zerostatic"
-    href="https://www.zerostatic.io">www.zerostatic.io</a>
+    Tüm Hakları Saklıdır <a class="zerostatic"
+    href="https://www.antalyanakliye.com">Antalya Nakliye</a>
 seo:
   meta_og_title: Jekyll Serif Theme
   meta_og_type: website
