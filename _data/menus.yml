@@ -2,7 +2,7 @@ main:
   - name: Hizmetler
     url: /hizmetler/
     weight: 2
-  - name: About
+  - name: Hakkımızda
     url: /about/
     weight: 4
   - name: Contact
