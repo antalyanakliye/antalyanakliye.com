@@ -2,7 +2,7 @@ baseurl: ''
 exclude:
   - README.md
 permalink: pretty
-title: Jekyll Serif
+title: Antalya Nakliye
 google_analytics_id: ''
 homepage:
   show_call_box: true
@@ -16,7 +16,7 @@ footer:
 seo:
   meta_og_title: Jekyll Serif Theme
   meta_og_type: website
-  meta_og_url: 'https://jekyll-serif-theme.netlify.app'
+  meta_og_url: 'https://nakliye.netlify.app'
   meta_og_image: >-
     https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png
   meta_og_description: >-
