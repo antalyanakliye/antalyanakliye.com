@@ -11,9 +11,7 @@ logo:
   desktop: images/antalya-nakliye.png
   desktop_height: 36px
 footer:
-  copyright_text: >-
-    Free Jekyll theme by <a class="zerostatic"
-    href="https://www.zerostatic.io">www.zerostatic.io</a>
+  copyright_text: ' <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 seo:
   meta_og_title: Jekyll Serif Theme
   meta_og_type: website
