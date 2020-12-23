@@ -5,7 +5,7 @@ main:
   - name: Hakkımızda
     url: /hakkimizda/
     weight: 4
-  - name: Contact
+  - name: İletişim
     url: /contact/
     weight: 5
 footer:
