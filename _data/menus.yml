@@ -12,6 +12,6 @@ footer:
   - name: Nakliyat
     url: /
     weight: 1
-  - name: Contact
+  - name: iletişim
     url: /contact/
     weight: 2
