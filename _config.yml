@@ -7,7 +7,6 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  desktop: images/antalya.svg
   desktop_height: 36px
   mobile: images/pink-octopus.svg
 footer:
